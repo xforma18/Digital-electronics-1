@@ -27,7 +27,7 @@
 ![Bez názvu](https://raw.githubusercontent.com/xforma18/Digital-electronics1/master/Labs/01-gates/f.png)
 **fAND**
 
-![ asdf ](https://raw.githubusercontent.com/xforma18/Digital-electronics1/master/Labs/01-gates/fAND.png)
+![](https://raw.githubusercontent.com/xforma18/Digital-electronics1/master/Labs/01-gates/fAND.png)
 
 **fOR**
-
+![](https://raw.githubusercontent.com/xforma18/Digital-electronics1/master/Labs/01-gates/fOR.png)
