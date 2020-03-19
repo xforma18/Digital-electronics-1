@@ -26,5 +26,6 @@
 **f schema**
 ![Bez názvu](https://raw.githubusercontent.com/xforma18/Digital-electronics1/master/Labs/01-gates/f.png)
 **fAND**
+![](https://raw.githubusercontent.com/xforma18/Digital-electronics1/master/Labs/01-gates/fAND.png)
 **fOR**
 
