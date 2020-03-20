@@ -34,3 +34,15 @@
 
 **doplnek**
 ![](https://raw.githubusercontent.com/xforma18/Digital-electronics-1/master/Labs/01-gates/f%2B.png)
+
+**Truth table for this function :** 
+| **A** | **B** | **C** | **f** | **fAND** | **fOR** |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 0 | 0 | 0 | 1 | 1 | 1 |
+| 0 | 0 | 1 | 0 | 0 | 0 |
+| 0 | 1 | 0 | 0 | 0 | 0 |
+| 0 | 1 | 1 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 1 | 1 | 1 |
+| 1 | 0 | 1 | 1 | 1 | 1 |
+| 1 | 1 | 0 | 0 | 0 | 0 |
+| 1 | 1 | 1 | 0 | 0 | 0 |
