@@ -31,3 +31,6 @@
 
 **fOR**
 ![](https://raw.githubusercontent.com/xforma18/Digital-electronics-1/master/Labs/01-gates/fOR.png)
+
+**doplnek**
+![](https://raw.githubusercontent.com/xforma18/Digital-electronics-1/master/Labs/01-gates/f%2B.png)
