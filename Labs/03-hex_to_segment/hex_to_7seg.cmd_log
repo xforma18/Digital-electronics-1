@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/programes_own/ISE/xISE_PROGRAMY/hex_to_segment/hex_to_7seg.xst" -ofn "D:/programes_own/ISE/xISE_PROGRAMY/hex_to_segment/hex_to_7seg.syr" 
+xst -intstyle ise -ifn "D:/programes_own/ISE/xISE_PROGRAMY/hex_to_segment/hex_to_7seg.xst" -ofn "D:/programes_own/ISE/xISE_PROGRAMY/hex_to_segment/hex_to_7seg.syr" 
